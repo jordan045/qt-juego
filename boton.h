@@ -5,6 +5,9 @@
 #include <QObject>
 #include <QRadioButton>
 
+// Forward declaration para reducir dependencias
+class Zone;
+
 class Boton: public QObject
 {
     Q_OBJECT

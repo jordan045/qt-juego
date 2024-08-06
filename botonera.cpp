@@ -1,5 +1,5 @@
 #include "botonera.h"
-#include "display_selection.h"
+
 #include "overlay_140_0001.h"
 #include "overlay_140_0010.h"
 #include "overlay_140_0011.h"
@@ -13,7 +13,7 @@
 #include <QLabel>
 #include <QDebug>
 #include <QShortcut>
-#include "display_mode.h"
+
 
 Botonera::Botonera(QWidget *parent) :
     QWidget(parent)

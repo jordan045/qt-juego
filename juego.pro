@@ -14,22 +14,15 @@ CONFIG += c++17
 SOURCES += \
     boton.cpp \
     botonera.cpp \
-    center.cpp \
     estado.cpp \
-    display_mode.cpp \
-    display_selection.cpp \
     formatconcentrator.cpp \
-    icm.cpp \
     initmenu.cpp \
-    label.cpp \
     main.cpp \
     mainwindow.cpp \
     overlay_140_0001.cpp \
     overlay_140_0010.cpp \
     overlay_140_0011.cpp \
     overlay_140_0100.cpp \
-    range.cpp \
-    threat.cpp \
     zone_displaymode.cpp \
     zone_displayselection.cpp \
     zone_center.cpp \
@@ -42,22 +35,15 @@ HEADERS += \
     Zone.h \
     boton.h \
     botonera.h \
-    center.h \
     estado.h \
-    display_mode.h \
-    display_selection.h \
     formatconcentrator.h \
-    icm.h \
     initmenu.h \
-    label.h \
     mainwindow.h \
     overlay_140_0001.h \
     overlay_140_0010.h \
     overlay_140_0011.h \
     overlay_140_0100.h \
     qek.h \
-    range.h \
-    threat.h \
     zone_displaymode.h \
     zone_displayselection.h \
     zone_center.h \
